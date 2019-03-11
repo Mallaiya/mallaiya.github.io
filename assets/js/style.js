@@ -60,11 +60,11 @@ if(windowSize<320){
 }
 
 /* Update Soon Call */
-$(document).ready(function() {
-  $('#update-soon').click(function() {
-    alert('Resume will be update soon');
-  });
-});
+// $(document).ready(function() {
+//   $('#update-soon').click(function() {
+//     alert('Resume will be update soon');
+//   });
+// });
 
 
 $(document).on("click",".contant-update ",function(e){ 
